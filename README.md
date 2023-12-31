@@ -51,11 +51,6 @@ print ("Amount:", regr.predict ([[3300,1300]]) )
 ![WhatsApp Image 2023-12-31 at 23 53 54_deff7b1e](https://github.com/23007965/Multivariate-Linear-Regression/assets/138971238/1cbd28ca-c5ea-497e-bc56-a9dbbd1ce17e)
 
 
-### Insert your output
-
-![image](https://github.com/23007965/Multivariate-Linear-Regression/assets/138971238/fc926021-9dc1-4fa4-98fa-6c9e0e8864e1)
-
-
 ![WhatsApp Image 2023-12-31 at 23 53 53_a334036c](https://github.com/23007965/Multivariate-Linear-Regression/assets/138971238/dff71da2-82f1-4be0-8576-3c25c54438f1)
 
 
